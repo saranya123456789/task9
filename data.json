@@ -1,0 +1,50 @@
+{
+	"data":[
+		{
+			"id":1,
+			"name":"SARANYA REDDY",
+			"email":"k.saranyareddy381998@gmail.com",
+			"phone":"1234567890",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"SVIT Engg college,anantapur",
+					"data":["79%","2015-2019"]
+				},
+				{
+					"degree":"intermediate",
+					"institute":"NRI junior college,hyderabad",
+					"data":["92%","2013-15"]
+				},
+				{
+					"degree":"Tenth",
+					"institute":"Radha school of Learning,anantapur",
+					"data":["95%","2012-13"]
+				}
+			]
+		},
+		{
+			"id":2,
+			"name":"GEETHA REDDY",
+			"email":"geethareddy430@gmail.com",
+			"phone":"1234567890",
+			"education":[
+				{
+					"degree":"MBBS",
+					"institute":"GOVT Medical college,karimnagar",
+					"data":["79%","2015-20"]
+				},
+				{
+					"degree":"INTERMEDIATE",
+					"institute":"NRI junior college,hyderabad",
+					"data":["92%","2013-15"]
+				},
+				{
+					"degree":"TENTH",
+					"institute":"geethanjali high school",
+					"data":["95%","2012-13"]
+				}
+			]
+		}
+	]
+}
